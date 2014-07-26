@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zendgdata",
+    "name": "hybridneo/zendgdata",
     "description": "provide programmatic interface to some of Google's online services",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -20,13 +20,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "zendframework/zend-http": ">=2.0.0",
-        "zendframework/zend-stdlib": ">=2.0.0",
-        "zendframework/zend-version": ">=2.0.0"
-    },
-    "require-dev": {
-        "phpunit/PHPUnit": "3.7.*"
+        "php": ">=5.3.3"
     },
     "extra": {
         "branch-alias": {
